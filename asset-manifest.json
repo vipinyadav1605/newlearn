@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/newlearn/static/js/main.6b5f7da1.js",
+    "static/js/453.419a5d54.chunk.js": "/newlearn/static/js/453.419a5d54.chunk.js",
+    "index.html": "/newlearn/index.html",
+    "main.6b5f7da1.js.map": "/newlearn/static/js/main.6b5f7da1.js.map",
+    "453.419a5d54.chunk.js.map": "/newlearn/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6b5f7da1.js"
+  ]
+}
